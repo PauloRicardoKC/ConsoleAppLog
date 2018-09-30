@@ -1,0 +1,14 @@
+2018-09-25 09:07:12,700 [1] INFO  ApplicationLog [(null)] - ----------------- INICIANDO SERVIÇO -----------------
+2018-09-25 09:07:12,744 [1] INFO  ApplicationLog [(null)] - Data do log: 25/09/2018 00:00:00
+2018-09-25 09:07:12,745 [1] INFO  ApplicationLog [(null)] - Contador: 0
+2018-09-25 09:07:12,745 [1] INFO  ApplicationLog [(null)] - Contador: 1
+2018-09-25 09:07:12,745 [1] INFO  ApplicationLog [(null)] - Contador: 2
+2018-09-25 09:07:12,746 [1] INFO  ApplicationLog [(null)] - Contador: 3
+2018-09-25 09:07:12,746 [1] INFO  ApplicationLog [(null)] - Contador: 4
+2018-09-25 09:07:12,746 [1] INFO  ApplicationLog [(null)] - Contador: 5
+2018-09-25 09:07:12,746 [1] INFO  ApplicationLog [(null)] - Contador: 6
+2018-09-25 09:07:12,747 [1] INFO  ApplicationLog [(null)] - Contador: 7
+2018-09-25 09:07:12,747 [1] INFO  ApplicationLog [(null)] - Contador: 8
+2018-09-25 09:07:12,748 [1] INFO  ApplicationLog [(null)] - Contador: 9
+2018-09-25 09:07:12,748 [1] INFO  ApplicationLog [(null)] - Contador: 10
+2018-09-25 09:07:12,748 [1] INFO  ApplicationLog [(null)] - ----------------- FINALIZANDO SERVIÇO -----------------

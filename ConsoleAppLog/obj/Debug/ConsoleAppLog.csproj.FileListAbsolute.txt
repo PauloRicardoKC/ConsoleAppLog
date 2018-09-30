@@ -1,0 +1,10 @@
+C:\Users\Alegria\Source\Repos\ConsoleAppLog\ConsoleAppLog\bin\Debug\ConsoleAppLog.exe.config
+C:\Users\Alegria\Source\Repos\ConsoleAppLog\ConsoleAppLog\bin\Debug\ConsoleAppLog.exe
+C:\Users\Alegria\Source\Repos\ConsoleAppLog\ConsoleAppLog\bin\Debug\ConsoleAppLog.pdb
+C:\Users\Alegria\Source\Repos\ConsoleAppLog\ConsoleAppLog\bin\Debug\log4net.dll
+C:\Users\Alegria\Source\Repos\ConsoleAppLog\ConsoleAppLog\bin\Debug\log4net.xml
+C:\Users\Alegria\Source\Repos\ConsoleAppLog\ConsoleAppLog\obj\Debug\ConsoleAppLog.csprojAssemblyReference.cache
+C:\Users\Alegria\Source\Repos\ConsoleAppLog\ConsoleAppLog\obj\Debug\ConsoleAppLog.csproj.CoreCompileInputs.cache
+C:\Users\Alegria\Source\Repos\ConsoleAppLog\ConsoleAppLog\obj\Debug\ConsoleAppLog.csproj.CopyComplete
+C:\Users\Alegria\Source\Repos\ConsoleAppLog\ConsoleAppLog\obj\Debug\ConsoleAppLog.exe
+C:\Users\Alegria\Source\Repos\ConsoleAppLog\ConsoleAppLog\obj\Debug\ConsoleAppLog.pdb
