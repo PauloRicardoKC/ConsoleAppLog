@@ -2,7 +2,7 @@
 
 Simple .Net project for log file recording.
 
-Features
+<h3>Features</h3>
 - .Net Framework 4.5.2
 - log4net 2.0.7
 
